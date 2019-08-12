@@ -1,0 +1,3 @@
+for TestingShastra
+To click download button:==//a[text()='Downloads']
+To click the Industrial Core Java:==//a[text()='Industrial Core Java']//parent::li

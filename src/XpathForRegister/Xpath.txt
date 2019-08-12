@@ -1,0 +1,16 @@
+Xpath for ToursMoutans.
+toclickREGIDTER =//a[text()='REGISTER']/parent::td
+for FirstName :==//input[@name='firstName']
+for LastName:==//input[@name='lastName']
+for Phone:==//input[@name='phone']
+forEmail:==//input[@name='userName' and @id='userName']
+toFillAddress:==//input[@name='address1']
+toEnter next line for address:==//input[@name='address2']
+Enter the city name:=//input[@name='city']
+Enter the state name:==//input[@name='state']
+Enter the postalCode:==//input[@name='postalCode']
+Enter the country :==//select[@name='country']
+Enter the user nameL:==//input[@name='email' and @id='email']
+Enter the password:==//input[@name='password']
+Confirm the password:==//input[@name='confirmPassword']
+Click on submit button:==//input[@type='image']

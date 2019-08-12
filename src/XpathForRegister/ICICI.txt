@@ -1,0 +1,8 @@
+x-path for the ICICI 
+Click on login button :==//div[@class="LeftPanel lp3 pp-login"]
+Xpath for the text only.
+to click show now:==//div[text()='Shop Now']
+to click the invest oonline:==//div[text()='Invest Online']
+To click login button:==//div[@class="LeftPanel lp3 pp-login"]
+to click on menu :==//li[@ class='selected highlight']
+
